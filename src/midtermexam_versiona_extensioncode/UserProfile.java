@@ -14,6 +14,8 @@ package midtermexam_versiona_extensioncode;
  * @author dancye, 2019
  */
 public class UserProfile 
+    // Comment from the Github website by Het
+    // 06/20/2023
 {
     
     private String userID;//the userID
